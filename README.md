@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Kevin 👋
+- 📚 4th-year Computer Science student at University of Alberta
+- 📫 Contact me at tonkich@ualberta.ca or https://www.linkedin.com/in/kevin-tonkich-436266247/
 
 <!--
 **tonkich7/tonkich7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
