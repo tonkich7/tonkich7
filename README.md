@@ -1,5 +1,7 @@
 ### Hi there, I'm Kevin 👋
 - 📚 4th-year Computer Science student at University of Alberta
+- 💡 Interested in app development, ML, and learning languages
+- 🌱 Currently working on Japanese learning App
 - 📫 Contact me at tonkich@ualberta.ca or https://www.linkedin.com/in/kevin-tonkich-436266247/
 
 <!--
