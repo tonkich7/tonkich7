@@ -2,7 +2,7 @@
 - 📚  4th-year Computer Science student at University of Alberta
 - 💻 Previous SWE Intern at Mercedes-Benz, Data Management at Seaspan
 - 💡   Interested in app development, ML, and language study
-- 🌱 Currently working on Japanese learning App
+- 🌱 Currently working on Japanese/English learning App
 - 📫 Contact me at tonkich@ualberta.ca or https://www.linkedin.com/in/kevin-tonkich-436266247/
 
 <!--
