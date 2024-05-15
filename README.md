@@ -1,6 +1,6 @@
 ### Hi there, I'm Kevin 👋
 - 📚  4th-year Computer Science student at University of Alberta
-- 💻 Project Testing Intern at City ofE dmonton | Previous SWE Intern at Mercedes-Benz, Data Management at Seaspan
+- 💻 Project Testing Intern at City of Edmonton | Previous SWE Intern at Mercedes-Benz, Data Management at Seaspan
 - 💡   Interested in app development, ML, and language study
 - 🌱 Currently working on Japanese/English learning App
 - 📫 Contact me at tonkich@ualberta.ca or https://www.linkedin.com/in/kevin-tonkich-436266247/
