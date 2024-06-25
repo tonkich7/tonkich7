@@ -5,7 +5,7 @@
 - 🌱 Currently working on Japanese/English learning App
 - 📫 Contact me at tonkich@ualberta.ca or https://www.linkedin.com/in/kevin-tonkich-436266247/
 
-![](https://komarev.com/ghpvc/?username=tonkich7)
+![](https://komarev.com/ghpvc/?username=tonkich7&color=blueviolet)
 <!--
 **tonkich7/tonkich7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
