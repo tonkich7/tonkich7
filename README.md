@@ -2,7 +2,7 @@
 - 📚  4th-year Computer Science student at University of Alberta
 - 💻  Previous SWE Intern at Mercedes-Benz, Data Management at Seaspan, Project Testing at City of Edmonton
 - 💡   Interested in app development, ML, and language study
-- 🌱 Currently working on Japanese/English learning App
+- 🌱 Currently working on League of Legends stat predictor using ML
 - 📫 Contact me at tonkich@ualberta.ca or https://www.linkedin.com/in/kevin-tonkich-436266247/
 
 ![](https://komarev.com/ghpvc/?username=tonkich7&color=blueviolet)
