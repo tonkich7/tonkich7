@@ -1,7 +1,7 @@
 ### Hi there, I'm Kevin 👋
 - 📚  4th-year Computer Science student at University of Alberta
 - 💻  Previous SWE Intern at Mercedes-Benz, Data Management at Seaspan, Project Testing at City of Edmonton
-- 💡   Interested in app development, ML, and language study (=NLP!)
+- 💡   Interested in app development, ML, and language study
 - 🌱 Currently working on League of Legends stat predictor using ML
 - 📫 Contact me at ktonkich@gmail.com or https://www.linkedin.com/in/kevin-tonkich-436266247/
 
